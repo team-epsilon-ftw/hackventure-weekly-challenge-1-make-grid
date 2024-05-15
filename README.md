@@ -9,7 +9,7 @@ The jupyter notebook generates a collage of images by applying various filters t
 ## Example Output
 
 - With filters
-![collage without filters](images/no_filters.png)
+![collage without filters](no_filters.png)
 
 - Without filters
 ![collage with filters](images/TeamEpslion_week1.png)
