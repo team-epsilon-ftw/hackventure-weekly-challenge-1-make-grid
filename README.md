@@ -10,7 +10,6 @@ The jupyter notebook generates a collage of images by applying various filters t
 
 <div style="display: flex; flex-align:center; flex-direction:center">
     <img src="TeamEpsilon_week1.png" style="width: 50%; ">
-    <span>With filters</span>
 </div>
 
 
