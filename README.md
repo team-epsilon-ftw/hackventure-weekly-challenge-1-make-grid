@@ -41,4 +41,4 @@ The jupyter notebook generates a collage of images by applying various filters t
 No installation is required. Simply download the notebook and run it in a Python environment with the necessary dependencies installed.
 
 ## Acknowledgments
-Special thanks to HackVenture team mates who supported me in project excution.
+Special thanks to Team Epsilon mates who supported me in project excution.
