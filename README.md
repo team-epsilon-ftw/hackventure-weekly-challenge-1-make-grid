@@ -2,7 +2,18 @@
 
 ## Description
 
-This jupyter notebook generates a collage of images by applying various filters to input images and arranging them in a grid layout. The notebook provides functionalities to delete files/folders, copy files from Google Drive, check the number of channels in images, duplicate images, rename files, and apply filters. It utilizes libraries such as PyTorch and PIL for image processing and manipulation.
+This project was developed as a challenge submission for HackVenture 1.0 organized by the University of Kaleniya. Our team, Team Epsilon, participated in this challenge and implemented the solution presented in this repository.
+
+The jupyter notebook generates a collage of images by applying various filters to input images and arranging them in a grid layout. The notebook provides functionalities to delete files/folders, copy files from Google Drive, check the number of channels in images, duplicate images, rename files, and apply filters. It utilizes libraries such as PyTorch and PIL for image processing and manipulation.
+
+## Example Output
+
+- With filters
+![collage without filters](images/no_filters.png)
+
+- Without filters
+![collage with filters](images/TeamEpslion_week1.png)
+
 
 ## Features
 
