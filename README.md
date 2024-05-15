@@ -1,4 +1,4 @@
-# Image Collage Generator
+# Collage Generator
 
 ## Description
 
