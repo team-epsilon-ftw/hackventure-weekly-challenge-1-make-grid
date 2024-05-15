@@ -9,11 +9,11 @@ The jupyter notebook generates a collage of images by applying various filters t
 ## Example Output
 
 <div style="display: flex;">
-    <div>
+    <div style="display: flex; margin:10px">
       <img src="no_filters.png" style="width: 30%;"/>
       <span>Without filters</span>
     </div>
-    <div>
+    <div style="display: flex;">
       <img src="TeamEpsilon_week1.png" style="width: 30%;">
       <span>With filters</span>
     </div>
